@@ -1,0 +1,5 @@
+occrrnc_dt,dth_dnv_cnt,dght_cd,injpsn_cnt,acc_ty_lclas_cd,acc_ty_mlsfc_cd,acc_ty_cd,aslt_vtr_cd,road_frm_lclas_cd,road_frm_cd,wrngdo_isrty_vhcty_lclas_cd,dmge_isrty_vhcty_lclas_cd,dmge_isrty_vhcty_lclas_cd,lo_crd,la_crd
+2020043017,1,1,1,01,11,01,05 ,02,07,10,12,12,127.05530201,37.93656478
+2020051810,1,1,1,01,11,01,07 ,02,06,05,12,12,127.05674393,37.92954013
+2020081016,1,1,1,01,11,01,05 ,01,05,01,12,12,127.05608572,37.89895666
+2020112015,1,1,1,03,31,32,05 ,01,05,05,##,##,127.06748995,37.90937306
